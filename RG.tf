@@ -3,8 +3,8 @@ resource "azurerm_resource_group" "gauravjirockhai"{
   location = "Central India"
 
 }
-resource "azurerm_resource_group" "gauravjirockhai2"{
-  name = "newRG2"
+resource "azurerm_resource_group" "gauravjirockhai3"{
+  name = "newRG3"
   location = "Central India"
 
 }
